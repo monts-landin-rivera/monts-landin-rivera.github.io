@@ -6,13 +6,15 @@ que es
 y de que se compone
 * * *
 # ¿QÚE ES EL GLUTEN?
+~Sustancia pegajosa y de color pardo, formada por proteínas, que se encuentra en la semilla del trigo y de otras gramíneas y que proporciona gran cantidad de energía al organismo.
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 _ _ _
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
 - - -
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
-- List
+* * *
+
 
 1. Numbered
 2. List
