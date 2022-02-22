@@ -4,9 +4,9 @@
 «Conocerás sobre el gluten ,
 que es 
 y de que se compone
-# ¿QÚE ES EL GLUTEN?#
-## ¿DE QUÉ SE COMPONE EL GLUTEN?##
-### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?###
+# ¿QÚE ES EL GLUTEN?
+## ¿DE QUÉ SE COMPONE EL GLUTEN?
+### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 
 - Bulleted
 - List
