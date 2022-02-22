@@ -11,7 +11,7 @@ y de que se compone
 _ _ _
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
 - - -
-[TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://www.cun.es/enfermedades-tratamientos/enfermedades/enfermedad-celiaca#:~:text=El%20%C3%BAnico%20tratamiento%20de%20la,muchos%20aditivos%20de%20productos%20manufacturados.)
+[TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
 - List
 
 1. Numbered
