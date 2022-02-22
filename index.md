@@ -1,6 +1,6 @@
 # **Bienvenidos al sitio web de Montserrat Landin **
 # *MONT´S GLUTEN FREE FOOD*
-### Este sitio te página te ayudará para saber más sobre el gluten
+### Este sitiio web te ayudará para saber más sobre el gluten
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
