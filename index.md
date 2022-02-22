@@ -6,7 +6,7 @@ que es
 y de que se compone
 * * *
 # ¿QÚE ES EL GLUTEN?
-# ~Sustancia pegajosa y de color pardo, formada por proteínas, que se encuentra en la semilla del trigo y de otras gramíneas y que proporciona gran cantidad de energía al organismo.
+~~Sustancia pegajosa y de color pardo, formada por proteínas, que se encuentra en la semilla del trigo y de otras gramíneas y que proporciona gran cantidad de energía al organismo.~~~
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 _ _ _
