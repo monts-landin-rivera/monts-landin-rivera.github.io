@@ -10,13 +10,14 @@ y de que se compone
 * *  *
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
 ~El gluten es una proteína amorfa que se encuentra en la semilla de muchos cereales como son el trigo, cebada, centeno, triticale, espelta, así como sus híbridos y derivados. Representa un 80 % de las proteínas del trigo y está compuesta por gliadina y glutenina~~~
+¡![image](https://user-images.githubusercontent.com/99773679/155236075-3429628f-39e3-4985-887c-dce0d87809a7.png)
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 _ _ _
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
 - - -
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
 * * *
-¡![image](https://user-images.githubusercontent.com/99773679/155236075-3429628f-39e3-4985-887c-dce0d87809a7.png)
+
 
 
 1. Numbered
