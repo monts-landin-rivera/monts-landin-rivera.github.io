@@ -7,7 +7,9 @@ y de que se compone
 * * *
 # ¿QÚE ES EL GLUTEN?
 ~Sustancia pegajosa y de color pardo, formada por proteínas, que se encuentra en la semilla del trigo y de otras gramíneas y que proporciona gran cantidad de energía al organismo.~~~
+* *  *
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
+~El gluten es una proteína amorfa que se encuentra en la semilla de muchos cereales como son el trigo, cebada, centeno, triticale, espelta, así como sus híbridos y derivados. Representa un 80 % de las proteínas del trigo y está compuesta por gliadina y glutenina~~~
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 _ _ _
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
