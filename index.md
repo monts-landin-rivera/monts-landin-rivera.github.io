@@ -16,6 +16,7 @@ _ _ _
 - - -
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
 * * *
+¡![image](https://user-images.githubusercontent.com/99773679/155236075-3429628f-39e3-4985-887c-dce0d87809a7.png)
 
 
 1. Numbered
