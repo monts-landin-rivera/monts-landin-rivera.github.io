@@ -4,10 +4,13 @@
 «Conocerás sobre el gluten ,
 que es 
 y de que se compone
+* * *
 # ¿QÚE ES EL GLUTEN?
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
+_ _ _
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
+- - -
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://www.cun.es/enfermedades-tratamientos/enfermedades/enfermedad-celiaca#:~:text=El%20%C3%BAnico%20tratamiento%20de%20la,muchos%20aditivos%20de%20productos%20manufacturados.)
 - List
 
