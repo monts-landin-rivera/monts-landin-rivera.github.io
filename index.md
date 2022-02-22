@@ -8,7 +8,7 @@ y de que se compone
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
-[enlace en línea](https://www.cun.es/enfermedades-tratamientos/enfermedades/enfermedad-celiaca#:~:text=El%20%C3%BAnico%20tratamiento%20de%20la,muchos%20aditivos%20de%20productos%20manufacturados.)
+[TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://www.cun.es/enfermedades-tratamientos/enfermedades/enfermedad-celiaca#:~:text=El%20%C3%BAnico%20tratamiento%20de%20la,muchos%20aditivos%20de%20productos%20manufacturados.)
 - List
 
 1. Numbered
