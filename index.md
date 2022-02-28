@@ -10,7 +10,7 @@ Mis cantantes favoritos son :
 1.- ADELE
 ***
 ![image](https://user-images.githubusercontent.com/99773679/156070756-b1b1767e-b221-4a25-9f4c-14709f9d9c0a.png)
-***
+_ _ _
 2.- LUIS MIGUEL
 ***
 ![image](https://user-images.githubusercontent.com/99773679/156070815-6ba80f64-14e7-4f22-9690-5215e22bc713.png)
@@ -18,7 +18,11 @@ Mis cantantes favoritos son :
 3.- ME  GUSTA EL CHOCOLATE 
 * * *
 ![image](https://user-images.githubusercontent.com/99773679/156071321-9a2337a9-5385-496b-816e-6c9c685b0bc9.png)
-<MIS AUTORES PREFERIDOS SON : GABRIEL GARCÍA MARQUEZ, DOT HUCHISON,>
+- - -
+<MIS AUTORES PREFERIDOS SON : GABRIEL GARCÍA MARQUEZ, DOT HUCHISON, VIRGINIA WOLF,EDGAR ALLAN POE ENTR OTROS>
+_ _  _
+![image](https://user-images.githubusercontent.com/99773679/156072514-67115fe7-32ee-458f-af62-06d7d3b4337a.png)
+
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
