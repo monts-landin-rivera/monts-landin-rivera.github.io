@@ -2,7 +2,7 @@
 
 # *GLUTEN-FREE SANUTRI*
 ***
-# ** MIS GUSTOS :
+# ** ___MIS GUSTOS ___:
 Me gusta el color negro ![image](https://user-images.githubusercontent.com/99773679/156069598-ab9636ae-775b-427e-833d-d2f875175c76.png)
 ***
 *También me gusta  la ropa de color negro![image](https://user-images.githubusercontent.com/99773679/156069670-bab5f9e7-e002-44c6-9b5c-951cc22fe563.png)
@@ -25,13 +25,13 @@ _ _ _
 PÁFINA FAVORITA PARA LEER LIBROS DIGITALES 
 _ _  _
 
-<MIS HABILIDADES SOCIALES>
+<___MIS HABILIDADES SOCIALES___>
  1.-  ESCUCHAR
   2.- DAR LAS GRACIAS
   3.-FORMULAR PREGUNTAS
  _ _  _
  
- #_MI HABILIDADES TECNÓLOGICAS_
+ #___MI HABILIDADES TECNÓLOGICAS___
  Alfabetización: saber buscar, almacenar y analizar información.
 Comunicación: saber comunicarse con otras personas de forma adecuada.
 Creación: saber diseñar nuevo contenido digital.
