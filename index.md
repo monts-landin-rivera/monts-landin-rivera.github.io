@@ -6,12 +6,16 @@ Me gusta el color negro ![image](https://user-images.githubusercontent.com/99773
 ***
 *También me gusta  la ropa de color negro![image](https://user-images.githubusercontent.com/99773679/156069670-bab5f9e7-e002-44c6-9b5c-951cc22fe563.png)
 Mis cantantes favoritos son :
+***
 1.- ADELE
 ![image](https://user-images.githubusercontent.com/99773679/156070756-b1b1767e-b221-4a25-9f4c-14709f9d9c0a.png)
 https://www.youtube.com/watch?v=WMg4GaJd3Fw
+***
 2.- LUIS MIGUEL
 ![image](https://user-images.githubusercontent.com/99773679/156070815-6ba80f64-14e7-4f22-9690-5215e22bc713.png)
 https://www.youtube.com/watch?v=by4I_10HbX4
+***
+3.- ME  GUSTA EL CHOCOLATE 
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
