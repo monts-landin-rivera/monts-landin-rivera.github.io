@@ -1,4 +1,4 @@
-# **Bienvenidos al sitio web de Montserrat Landin **
+++# **Bienvenidos al sitio web de Montserrat Landin **
 # *GLUTEN-FREE SANUTRI*
 ***
 # ** MIS GUSTOS :
@@ -11,6 +11,7 @@ Mis cantante favorito es :
 ***
 ![image](https://user-images.githubusercontent.com/99773679/156070756-b1b1767e-b221-4a25-9f4c-14709f9d9c0a.png)
 _ _ _
+
 3.- ME  GUSTA EL CHOCOLATE 
 * * *
 ![image](https://user-images.githubusercontent.com/99773679/156071321-9a2337a9-5385-496b-816e-6c9c685b0bc9.png)
@@ -19,9 +20,20 @@ _ _ _
 _ _  _
 ![image](https://user-images.githubusercontent.com/99773679/156072514-67115fe7-32ee-458f-af62-06d7d3b4337a.png)
 _ _ _
+[https://librivox.org/]
+PÁFINA FAVORITA PARA LEER LIBROS DIGITALES 
 <MIS HABILIDADES SOCIALES>
  1.-  ESCUCHAR
-  2..
+  2.- DAR LAS GRACIAS
+  3.-FORMULAR PREGUNTAS
+ _ _  _
+ #_MI HABILIDADES TECNÓLOGICAS_
+ AAlfabetización: saber buscar, almacenar y analizar información.
+Comunicación: saber comunicarse con otras personas de forma adecuada.
+Creación: saber diseñar nuevo contenido digital.
+Seguridad: saber proteger dispositivos y personas.
+Resolución: saber solventar problemas.
+ 
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
@@ -40,22 +52,5 @@ _ _ _
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
 * * *
 
-
-
-1. Numbered
+ 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/monts-landin-rivera/monts-landin-rivera.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
