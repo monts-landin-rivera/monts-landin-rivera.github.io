@@ -1,6 +1,11 @@
 # **Bienvenidos al sitio web de Montserrat Landin **
 # *GLUTEN-FREE SANUTRI*
-#[texto a mostrar] Mis gustos
+***
+# Mis gustos
+Me gusta el color negro ![image](https://user-images.githubusercontent.com/99773679/156069598-ab9636ae-775b-427e-833d-d2f875175c76.png)
+También me gusta  la ropa de color negro![image](https://user-images.githubusercontent.com/99773679/156069670-bab5f9e7-e002-44c6-9b5c-951cc22fe563.png)
+Mis cantantes favoritos son :
+
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
