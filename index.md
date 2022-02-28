@@ -42,7 +42,9 @@ Resolución: saber solventar problemas.
  ___MI EXPERIENCIA LABORAL___
  1.CREACIÓN Y EDICIÓN  DE VÍDEOS CON FINES EDUCATIVOS
  2.-MANTENIMIENTO DE EQUIPOS DE CÓMPUTO
- 3.-CERTIFICACIONES POR PARTE DE DE: MICROSOFT,FUNDACIÓN SLIM, CASA TELMEX
+ 3.-CERTIFICACIONES POR PARTE DE DE: MICROSOFT
+ FUNDACIÓN SLIM
+ CASA TELMEX
  _ _ _
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
