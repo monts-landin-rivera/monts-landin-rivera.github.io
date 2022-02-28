@@ -22,7 +22,7 @@ _ _  _
 ![image](https://user-images.githubusercontent.com/99773679/156072514-67115fe7-32ee-458f-af62-06d7d3b4337a.png)
 _ _ _
 [https://librivox.org/]
-PÁFINA FAVORITA PARA LEER LIBROS DIGITALES 
+PÁGINA FAVORITA PARA LEER LIBROS DIGITALES 
 _ _  _
 
 ___MIS HABILIDADES SOCIALES___
