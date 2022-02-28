@@ -25,14 +25,14 @@ _ _ _
 PÁFINA FAVORITA PARA LEER LIBROS DIGITALES 
 _ _  _
 
-<___MIS HABILIDADES SOCIALES___>
+___MIS HABILIDADES SOCIALES___
  1.-  ESCUCHAR
   2.- DAR LAS GRACIAS
   3.-FORMULAR PREGUNTAS
   4.- APOYAR A LAS PERSONAS CUANDO LO NECESEISTEN
  _ _  _
  
- #___MI HABILIDADES TECNÓLOGICAS___
+ ___MI HABILIDADES TECNÓLOGICAS___
  Alfabetización: saber buscar, almacenar y analizar información.
 Comunicación: saber comunicarse con otras personas de forma adecuada.
 Creación: saber diseñar nuevo contenido digital.
