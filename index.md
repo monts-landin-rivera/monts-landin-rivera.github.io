@@ -23,11 +23,13 @@ _ _ _
 [https://librivox.org/]
 PÁFINA FAVORITA PARA LEER LIBROS DIGITALES 
 _ _  _
+
 <MIS HABILIDADES SOCIALES>
  1.-  ESCUCHAR
   2.- DAR LAS GRACIAS
   3.-FORMULAR PREGUNTAS
  _ _  _
+ 
  #_MI HABILIDADES TECNÓLOGICAS_
  Alfabetización: saber buscar, almacenar y analizar información.
 Comunicación: saber comunicarse con otras personas de forma adecuada.
@@ -39,6 +41,7 @@ Resolución: saber solventar problemas.
  1.CREACIÓN Y EDICIÓN  DE VÍDEOS CON FINES EDUCATIVOS
  2.-MANTENIMIENTO DE EQUIPOS DE CÓMPUTO
  3.-CERTIFICACIONES POR PARTE DE DE: MICROSOFT,FUNDACIÓN SLIM, CASA TELMEX
+ _ _ _
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
