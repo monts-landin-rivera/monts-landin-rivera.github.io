@@ -14,11 +14,11 @@ Mis cantantes favoritos son :
 2.- LUIS MIGUEL
 ***
 ![image](https://user-images.githubusercontent.com/99773679/156070815-6ba80f64-14e7-4f22-9690-5215e22bc713.png)
-***
+- - -
 3.- ME  GUSTA EL CHOCOLATE 
-***
+* * *
 ![image](https://user-images.githubusercontent.com/99773679/156071321-9a2337a9-5385-496b-816e-6c9c685b0bc9.png)
-
+<MIS AUTORES PREFERIDOS SON : GABRIEL GARCÍA MARQUEZ, DOT HUCHISON,>
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
