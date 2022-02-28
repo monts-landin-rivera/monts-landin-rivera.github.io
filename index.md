@@ -39,6 +39,7 @@ Creación: saber diseñar nuevo contenido digital.
 Seguridad: saber proteger dispositivos y personas.
 Resolución: saber solventar problemas.
  _ _ _
+ 
  ___MI EXPERIENCIA LABORAL___
  1.CREACIÓN Y EDICIÓN  DE VÍDEOS CON FINES EDUCATIVOS
  2.-MANTENIMIENTO DE EQUIPOS DE CÓMPUTO
@@ -46,21 +47,26 @@ Resolución: saber solventar problemas.
  FUNDACIÓN SLIM
  CASA TELMEX
  _ _ _
+ 
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
 y de que se compone
 * * *
+
 # ¿QÚE ES EL GLUTEN?
 ~Sustancia pegajosa y de color pardo, formada por proteínas, que se encuentra en la semilla del trigo y de otras gramíneas y que proporciona gran cantidad de energía al organismo.~~~
 * *  *
+
 ## ¿DE QUÉ SE COMPONE EL GLUTEN?
 ~El gluten es una proteína amorfa que se encuentra en la semilla de muchos cereales como son el trigo, cebada, centeno, triticale, espelta, así como sus híbridos y derivados. Representa un 80 % de las proteínas del trigo y está compuesta por gliadina y glutenina~~~
 ¡![image](https://user-images.githubusercontent.com/99773679/155236075-3429628f-39e3-4985-887c-dce0d87809a7.png)
 ### ¿QUÉ ALIMENTOS CONTIENEN GLUTEN?
 _ _ _
+
 > NI UNA MIGA RESPETEMOS A LOS CELÍACOS  EN SU DIETA LIBRE DE GLUTEN.-MATÍAS GONZÁLEZ
 - - -
+- 
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
 * * *
 
