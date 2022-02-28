@@ -1,6 +1,6 @@
 # **Bienvenidos al sitio web de Montserrat Landin **
 # *GLUTEN-FREE SANUTRI*
-[texto a mostrar] Mis gustos
+#[texto a mostrar] Mis gustos
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 que es 
