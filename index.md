@@ -8,57 +8,6 @@
 qué es 
 y de qué se compone
 * * *
-<!DOCTYPEhtml >
-< html  lang =" es " >
-< cabeza >
-	< juego de caracteres meta  =" UTF-8 " >
-	< title > Barra de navegación </ title >
-
-	< estilo >
-		cuerpo { color de fondo :  # 4642B8 ; relleno :  150 px ; familia de fuentes : Arial;}
-		
-		# menú {
-			color de fondo :  # 000 ;
-
-		}
-
-		# menú  ul {
-			estilo de lista : ninguno;
-			margen :  0 ;
-			relleno :  0 ;
-		}
-
-		# menú  ul  li {
-			pantalla : bloque en línea;
-		}
-
-		# menú  ul  li  a {
-			color : blanco;
-			pantalla : bloque;
-			relleno :  20 px  20 px ;
-			decoración de texto : ninguno;
-		}
-
-		# menú  ul  li  a : hover {
-			color de fondo :  # 42B881 ;
-		}
-
-		. elemento-r {
-			flotante : derecho;
-		}
-	</ estilo >
-</ cabeza >
-< cuerpo >
-	< div  id =" menú " >
-		< ul >
-			< li > < a  href =" # " > Inicio </ a > </ li >
-			< li > < a  href =" # " > Acerca de </ a > </ li >
-			< li > < a  href =" # " > Servicios </ a > </ li >
-			< li  class =" item-r " > < a  href =" # " > Contacto </ a > </ li >
-		</ ul >
-	</ div >
-</ cuerpo >
-</ html >
 ___VISIÓN DEL PROYECTO :___
 Crear una página web que ayudea las personas intolerantes contra el gluten a tener una mejor calidad de vida
 (![image](https://user-images.githubusercontent.com/99773679/156206879-a3066e3b-e31d-4c73-8c19-2bebf2737c85.png)
