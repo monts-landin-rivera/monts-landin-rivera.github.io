@@ -2,101 +2,63 @@
 
 # *GLUTEN-FREE SANUTRI*
 ***
-< html >
-	< cabeza >
-		< title > Menú Desplegable </ title >
-		< tipo de estilo  =" texto/css " >
-			
-			* {
-				margen : 0 píxeles ;
-				relleno : 0 px ;
-			}
-			
-			# encabezado {
-				margen : automático;
-				ancho : 500 píxeles ;
-				familia de fuentes : Arial , Helvetica , sans-serif;
-			}
-			
-			ul ,  ol {
-				estilo de lista : ninguno;
-			}
-			
-			. navegación  >  li {
-				flotante : izquierda;
-			}
-			
-			. navegación  li  a {
-				color de fondo : # 000 ;
-				color : #fff ; _
-				decoración de texto : ninguno;
-				relleno : 10 px  12 px ;
-				pantalla : bloque;
-			}
-			
-			. nav  li  a : flotar {
-				color de fondo : # 434343 ;
-			}
-			
-			. navegación  li  ul {
-				pantalla : ninguno;
-				posición : absoluta;
-				ancho mínimo : 140 px ;
-			}
-			
-			. nav  li : flotar  >  ul {
-				pantalla : bloque;
-			}
-			
-			. navegación  li  ul  li {
-				posición : relativa;
-			}
-			
-			. navegación  li  ul  li  ul {
-				derecha : -140 píxeles ;
-				arriba : 0 píxeles ;
-			}
-			
-		</ estilo >
-	</ cabeza >
-	< cuerpo >
-		< div  id =" encabezado " >
-			< clase ul  =" nav " >
-				< li > < a  href ="" > Inicio </ a > </ li >
-				< li > < a  href ="" > Servicios </ a >
-					< ul >
-						< li > < a  href ="" > Submenú1 </ a > </ li >
-						< li > < a  href ="" > Submenú2 </ a > </ li >
-						< li > < a  href ="" > Submenú3 </ a > </ li >
-						< li > < a  href ="" > Submenú4 </ a >
-							< ul >
-								< li > < a  href ="" > Submenú1 </ a > </ li >
-								< li > < a  href ="" > Submenú2 </ a > </ li >
-								< li > < a  href ="" > Submenú3 </ a > </ li >
-								< li > < a  href ="" > Submenú4 </ a > </ li >
-							</ ul >
-						</ li >
-					</ ul >
-				</ li >
-				< li > < a  href ="" > Acerca de </ a >
-					< ul >
-						< li > < a  href ="" > Submenú1 </ a > </ li >
-						< li > < a  href ="" > Submenú2 </ a > </ li >
-						< li > < a  href ="" > Submenú3 </ a > </ li >
-						< li > < a  href ="" > Submenú4 </ a > </ li >
-					</ ul >
-				</ li >
-				< li > < a  href ="" > Contacto </ a > </ li >
-			</ ul >
-		</ div >
-	</ cuerpo >
-</ html >
+
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 qué es 
 y de qué se compone
 * * *
+<!DOCTYPEhtml >
+< html  lang =" es " >
+< cabeza >
+	< juego de caracteres meta  =" UTF-8 " >
+	< title > Barra de navegación </ title >
 
+	< estilo >
+		cuerpo { color de fondo :  # 4642B8 ; relleno :  150 px ; familia de fuentes : Arial;}
+		
+		# menú {
+			color de fondo :  # 000 ;
+
+		}
+
+		# menú  ul {
+			estilo de lista : ninguno;
+			margen :  0 ;
+			relleno :  0 ;
+		}
+
+		# menú  ul  li {
+			pantalla : bloque en línea;
+		}
+
+		# menú  ul  li  a {
+			color : blanco;
+			pantalla : bloque;
+			relleno :  20 px  20 px ;
+			decoración de texto : ninguno;
+		}
+
+		# menú  ul  li  a : hover {
+			color de fondo :  # 42B881 ;
+		}
+
+		. elemento-r {
+			flotante : derecho;
+		}
+	</ estilo >
+</ cabeza >
+< cuerpo >
+	< div  id =" menú " >
+		< ul >
+			< li > < a  href =" # " > Inicio </ a > </ li >
+			< li > < a  href =" # " > Acerca de </ a > </ li >
+			< li > < a  href =" # " > Servicios </ a > </ li >
+			< li  class =" item-r " > < a  href =" # " > Contacto </ a > </ li >
+		</ ul >
+	</ div >
+</ cuerpo >
+</ html >
 ___VISIÓN DEL PROYECTO :___
 Crear una página web que ayudea las personas intolerantes contra el gluten a tener una mejor calidad de vida
 (![image](https://user-images.githubusercontent.com/99773679/156206879-a3066e3b-e31d-4c73-8c19-2bebf2737c85.png)
