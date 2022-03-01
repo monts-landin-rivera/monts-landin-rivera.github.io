@@ -21,7 +21,7 @@ _ _ _
 _ _  _
 ![image](https://user-images.githubusercontent.com/99773679/156072514-67115fe7-32ee-458f-af62-06d7d3b4337a.png)
 _ _ _
-[ÁGINA FAVORITA PARA LEER LIBROS DIGITALES ](https://librivox.org/)
+[PÁGINA FAVORITA PARA LEER LIBROS DIGITALES ](https://librivox.org/)
 
 _ _  _
 
