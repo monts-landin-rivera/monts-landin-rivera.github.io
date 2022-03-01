@@ -74,4 +74,9 @@ _ _ _
 [TRATAMIENTO CONTRA EL GLUTEN O CELÍACA](https://celicidad.net/tratamiento-celiaquia/)
 * * *
 ![image](https://user-images.githubusercontent.com/99773679/156198581-32f1f678-d83e-4f6f-9c6b-be5b44df4d0e.png)
-
+ _ _ _
+ ___MARCAS Y ALIMENTOS LIBRES DE GLUTEN___
+ [Pan blanco Bimbo con chía y linaza 430 g]
+ [![image](https://user-images.githubusercontent.com/99773679/156200993-d226a1f0-60ed-4012-b593-4886230fce62.png)
+](https://super.walmart.com.mx/pan-y-tortillas-empacados/pan-blanco-bimbo-con-chia-y-linaza-430-g/00750103042597)
+ 
