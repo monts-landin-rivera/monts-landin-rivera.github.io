@@ -84,4 +84,8 @@ _  _ _
  [Rotini Barilla sin gluten 340 g]
  [![image](https://user-images.githubusercontent.com/99773679/156202147-116d779f-de50-4d26-9512-49f024d6513b.png)
 ](https://super.walmart.com.mx/pastas/rotini-barilla-sin-gluten-340-g/00007680800390?adBanner=super&adStoreId=0000009999&gclid=CjwKCAiApfeQBhAUEiwA7K_UHzxaP8dWz6e_5vUs59H07r7ou-YQUArnwrmMpd06WhQQRCtjoWKtGBoCDd8QAvD_BwE)
+_  _ _
+[Jamón de pierna Zwan 400 g]
+[![image](https://user-images.githubusercontent.com/99773679/156203140-72e1e97c-7a5f-4045-acc5-6a71b5d70ecb.png)
+](https://super.walmart.com.mx/carnes-frias/jamon-de-pierna-zwan-400-g/00750105771103?adBanner=express&adStoreId=0000009998&gclid=CjwKCAiApfeQBhAUEiwA7K_UH9Mmy-4oYVJT-LlG568Xus_dcQne-oEmUZmmrf4iLSi5IRhz_arRRhoC45UQAvD_BwE)
 
