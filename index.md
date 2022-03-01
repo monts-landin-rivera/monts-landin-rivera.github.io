@@ -82,5 +82,5 @@ _ _ _
 ](https://super.walmart.com.mx/pan-y-tortillas-empacados/pan-blanco-bimbo-con-chia-y-linaza-430-g/00750103042597)
  [Rotini Barilla sin gluten 340 g]
  [![image](https://user-images.githubusercontent.com/99773679/156201422-9fbd7c54-fc87-4b27-a9b2-a28e9f31fcc0.png)
- https://super.walmart.com.mx/pastas/rotini-barilla-sin-gluten-340-g/00007680800390?adBanner=super&adStoreId=0000009999&gclid=CjwKCAiApfeQBhAUEiwA7K_UHzxaP8dWz6e_5vUs59H07r7ou-YQUArnwrmMpd06WhQQRCtjoWKtGBoCDd8QAvD_BwE]
+ ]https://super.walmart.com.mx/pastas/rotini-barilla-sin-gluten-340-g/00007680800390?adBanner=super&adStoreId=0000009999&gclid=CjwKCAiApfeQBhAUEiwA7K_UHzxaP8dWz6e_5vUs59H07r7ou-YQUArnwrmMpd06WhQQRCtjoWKtGBoCDd8QAvD_BwE]
 
