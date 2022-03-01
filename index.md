@@ -1,53 +1,96 @@
-# **Bienvenidos al sitio web de Montserrat Landin ** ![image](https://user-images.githubusercontent.com/99773679/156077163-0fe05d67-3f86-4576-8333-ef0955f86a94.png)
+# **Bienvenidos al sitio web de Montserrat Landin ** 
 
 # *GLUTEN-FREE SANUTRI*
 ***
-# ** ___MIS GUSTOS ___:
-Me gusta el color negro ![image](https://user-images.githubusercontent.com/99773679/156069598-ab9636ae-775b-427e-833d-d2f875175c76.png)
-***
-*También me gusta  la ropa de color negro![image](https://user-images.githubusercontent.com/99773679/156069670-bab5f9e7-e002-44c6-9b5c-951cc22fe563.png)
-Mis cantante favorito es :
-***
-1.- ADELE
-***
-![image](https://user-images.githubusercontent.com/99773679/156070756-b1b1767e-b221-4a25-9f4c-14709f9d9c0a.png)
-_ _ _
-
-3.- ME  GUSTA EL CHOCOLATE 
-* * *
-![image](https://user-images.githubusercontent.com/99773679/156071321-9a2337a9-5385-496b-816e-6c9c685b0bc9.png)
-- - -
-\<MIS AUTORES PREFERIDOS SON : GABRIEL GARCÍA MARQUEZ, DOT HUCHISON, VIRGINIA WOLF,EDGAR ALLAN POE ENTRE OTROS>
-_ _  _
-![image](https://user-images.githubusercontent.com/99773679/156072514-67115fe7-32ee-458f-af62-06d7d3b4337a.png)
-_ _ _
-[PÁGINA FAVORITA PARA LEER LIBROS DIGITALES ](https://librivox.org/)
-
-_ _  _
-
-___MIS HABILIDADES SOCIALES___
- 1.-  ESCUCHAR
-  2.- DAR LAS GRACIAS
-  3.-FORMULAR PREGUNTAS
-  4.- APOYAR A LAS PERSONAS CUANDO LO NECESEISTEN
- _ _  _
- 
- ___MI HABILIDADES TECNÓLOGICAS___
- Alfabetización: saber buscar, almacenar y analizar información.
-Comunicación: saber comunicarse con otras personas de forma adecuada.
-Creación: saber diseñar nuevo contenido digital.
-Seguridad: saber proteger dispositivos y personas.
-Resolución: saber solventar problemas.
- _ _ _
- 
- ___MI EXPERIENCIA LABORAL___
- 1.CREACIÓN Y EDICIÓN  DE VÍDEOS CON FINES EDUCATIVOS
- 2.-MANTENIMIENTO DE EQUIPOS DE CÓMPUTO
- 3.-CERTIFICACIONES POR PARTE DE DE: MICROSOFT
- FUNDACIÓN SLIM
- CASA TELMEX
- _ _ _
- 
+< html >
+	< cabeza >
+		< title > Menú Desplegable </ title >
+		< tipo de estilo  =" texto/css " >
+			
+			* {
+				margen : 0 píxeles ;
+				relleno : 0 px ;
+			}
+			
+			# encabezado {
+				margen : automático;
+				ancho : 500 píxeles ;
+				familia de fuentes : Arial , Helvetica , sans-serif;
+			}
+			
+			ul ,  ol {
+				estilo de lista : ninguno;
+			}
+			
+			. navegación  >  li {
+				flotante : izquierda;
+			}
+			
+			. navegación  li  a {
+				color de fondo : # 000 ;
+				color : #fff ; _
+				decoración de texto : ninguno;
+				relleno : 10 px  12 px ;
+				pantalla : bloque;
+			}
+			
+			. nav  li  a : flotar {
+				color de fondo : # 434343 ;
+			}
+			
+			. navegación  li  ul {
+				pantalla : ninguno;
+				posición : absoluta;
+				ancho mínimo : 140 px ;
+			}
+			
+			. nav  li : flotar  >  ul {
+				pantalla : bloque;
+			}
+			
+			. navegación  li  ul  li {
+				posición : relativa;
+			}
+			
+			. navegación  li  ul  li  ul {
+				derecha : -140 píxeles ;
+				arriba : 0 píxeles ;
+			}
+			
+		</ estilo >
+	</ cabeza >
+	< cuerpo >
+		< div  id =" encabezado " >
+			< clase ul  =" nav " >
+				< li > < a  href ="" > Inicio </ a > </ li >
+				< li > < a  href ="" > Servicios </ a >
+					< ul >
+						< li > < a  href ="" > Submenú1 </ a > </ li >
+						< li > < a  href ="" > Submenú2 </ a > </ li >
+						< li > < a  href ="" > Submenú3 </ a > </ li >
+						< li > < a  href ="" > Submenú4 </ a >
+							< ul >
+								< li > < a  href ="" > Submenú1 </ a > </ li >
+								< li > < a  href ="" > Submenú2 </ a > </ li >
+								< li > < a  href ="" > Submenú3 </ a > </ li >
+								< li > < a  href ="" > Submenú4 </ a > </ li >
+							</ ul >
+						</ li >
+					</ ul >
+				</ li >
+				< li > < a  href ="" > Acerca de </ a >
+					< ul >
+						< li > < a  href ="" > Submenú1 </ a > </ li >
+						< li > < a  href ="" > Submenú2 </ a > </ li >
+						< li > < a  href ="" > Submenú3 </ a > </ li >
+						< li > < a  href ="" > Submenú4 </ a > </ li >
+					</ ul >
+				</ li >
+				< li > < a  href ="" > Contacto </ a > </ li >
+			</ ul >
+		</ div >
+	</ cuerpo >
+</ html >
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 qué es 
