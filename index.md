@@ -54,11 +54,11 @@ qué es
 y de qué se compone
 * * *
 
-___VISIÓN DEL PROYECTO___
+___VISIÓN DEL PROYECTO :___
 Crear una página web que ayudea las personas intolerantes contra el gluten a tener una mejor calidad de vida
 (![image](https://user-images.githubusercontent.com/99773679/156206879-a3066e3b-e31d-4c73-8c19-2bebf2737c85.png)
 _  _ _
-___MISIÓN DEL PROYECTO)
+___MISIÓN DEL PROYECTO : ___
 
 Ayudar a las personas que son intolernates al gluten para asi poder brindarles una mejor orientación
 ![image](https://user-images.githubusercontent.com/99773679/156208176-fa73d329-d864-4a54-9aa2-fab56a1b317e.png)
