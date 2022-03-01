@@ -77,6 +77,7 @@ _ _ _
  _ _ _
  ___MARCAS Y ALIMENTOS LIBRES DE GLUTEN___
  _ _ _
+ 
  [Pan blanco Bimbo con chía y linaza 430 g]
  [![image](https://user-images.githubusercontent.com/99773679/156200993-d226a1f0-60ed-4012-b593-4886230fce62.png)
 ](https://super.walmart.com.mx/pan-y-tortillas-empacados/pan-blanco-bimbo-con-chia-y-linaza-430-g/00750103042597)
@@ -88,4 +89,8 @@ _  _ _
 [Jamón de pierna Zwan 400 g]
 [![image](https://user-images.githubusercontent.com/99773679/156203140-72e1e97c-7a5f-4045-acc5-6a71b5d70ecb.png)
 ](https://super.walmart.com.mx/carnes-frias/jamon-de-pierna-zwan-400-g/00750105771103?adBanner=express&adStoreId=0000009998&gclid=CjwKCAiApfeQBhAUEiwA7K_UH9Mmy-4oYVJT-LlG568Xus_dcQne-oEmUZmmrf4iLSi5IRhz_arRRhoC45UQAvD_BwE)
-
+* * * 
+[ Leche Alimento líquido Silk de coco sin azúcar 946 ml]
+[![image](https://user-images.githubusercontent.com/99773679/156205219-8b9414af-5dd8-4ed6-a94a-94c1a1ec3aa0.png)
+](https://super.walmart.com.mx/alimento-liquido/alimento-liquido-silk-de-coco-sin-azucar-946-ml/00750103239929?adBanner=super&adStoreId=0000009999&gclid=CjwKCAiApfeQBhAUEiwA7K_UH0v-Lz_4oSphnGDzwluDTh8P0zUISf7ZEZQkbN9J52gEvyqqexABYBoCIRcQAvD_BwE)
+_ _ _
