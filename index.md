@@ -54,6 +54,15 @@ qué es
 y de qué se compone
 * * *
 
+#___VISIÓN DEL PROYECTO___
+Crear una página web que ayudea las personas intolerantes contra el gluten a tener una mejor calidad de vida
+(![image](https://user-images.githubusercontent.com/99773679/156206879-a3066e3b-e31d-4c73-8c19-2bebf2737c85.png)
+_  _ _
+#___MISIÓN DEL PROYECTO)
+
+Ayudar a las personas que son intolernates al gluten para asi poder brindarles una mejor orientación
+![image](https://user-images.githubusercontent.com/99773679/156208176-fa73d329-d864-4a54-9aa2-fab56a1b317e.png)
+_  _ _
 # ¿QÚE ES EL GLUTEN?
 ~Sustancia pegajosa y de color pardo, formada por proteínas, que se encuentra en la semilla del trigo y de otras gramíneas y que proporciona gran cantidad de energía al organismo.~~~
 ![image](https://user-images.githubusercontent.com/99773679/156198319-7dd8fbca-d66a-4119-8bcc-aee1bab1fb37.png)
@@ -94,3 +103,6 @@ _  _ _
 [![image](https://user-images.githubusercontent.com/99773679/156205219-8b9414af-5dd8-4ed6-a94a-94c1a1ec3aa0.png)
 ](https://super.walmart.com.mx/alimento-liquido/alimento-liquido-silk-de-coco-sin-azucar-946-ml/00750103239929?adBanner=super&adStoreId=0000009999&gclid=CjwKCAiApfeQBhAUEiwA7K_UH0v-Lz_4oSphnGDzwluDTh8P0zUISf7ZEZQkbN9J52gEvyqqexABYBoCIRcQAvD_BwE)
 _ _ _
+[Besos Chocolates, Sin Gluten Caramelo Sólido De La Leche]
+[![image](https://user-images.githubusercontent.com/99773679/156206039-be5f967b-6912-4045-b4a2-f6966480619f.png)
+](https://articulo.mercadolibre.com.mx/MLM-608768775-besos-chocolates-sin-gluten-caramelo-solido-de-la-leche-de-_JM?matt_tool=28238160&utm_source=google_shopping&utm_medium=organic)
