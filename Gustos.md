@@ -15,5 +15,5 @@ ___
 ___
 ### MI CANTANTE FAVORITO ES ADELE Y LUIS MIGUEL 
 ___
-![image](https://user-images.githubusercontent.com/99773679/156667351-4eafae95-b4e1-4d33-b6e2-6086d7063fbe.png) ![image](https://user-images.githubusercontent.com/99773679/156668961-156eebb0-4725-4d03-83ba-8ab4c56d542e.png)
+![image](https://user-images.githubusercontent.com/99773679/156667351-4eafae95-b4e1-4d33-b6e2-6086d7063fbe.png) ![image](https://user-images.githubusercontent.com/99773679/156669215-2bbdb7e7-de5e-4077-aa65-51209cf42081.png)
 
