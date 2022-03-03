@@ -1,5 +1,5 @@
 
-[Gustos](./Gustos.md)| [Sociales](./Sociales.md) | [Tecnólogicas](./Tecnólogicas.md) | [Laboral](./Laboral.md)
+[Gustos](./Gustos.md)| [Sociales](./Sociales.md) | [Tecnólogicas](./Tecnólogicas.md) | [Laboral](./Laboral.md) |
 ___
 ## ME GUSTA EL COLOR NEGRO
 ___
