@@ -2,7 +2,7 @@
 
 # *GLUTEN-FREE SANUTRI*
 ***
-[Gustos](./Gustos.md)| [Sociales](./Sociales.md) | [Tecnólogicas](./Tecnólogicas.md) | [Laboral](./Laboral.md)|
+[Gustos](./Gustos.md)| [Sociales](./Sociales.md) | [Tecnólogicas](./Tecnólogicas.md) | [Laboral](./Laboral.md) |
 ### Este sitio web te ayudará para saber más sobre el gluten
 «Conocerás sobre el gluten ,
 qué es 
