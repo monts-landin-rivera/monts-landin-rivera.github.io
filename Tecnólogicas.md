@@ -9,5 +9,6 @@
 |                                                      |
 |  Visualización de datos |![image](https://user-images.githubusercontent.com/99773679/157130665-136a3f9e-f781-4b7b-873d-caa1c6d7c590.png)| 91% |
 |                                                      |
-| Seguridad de la información | |![image](https://user-images.githubusercontent.com/99773679/157131504-dcae80ea-61f9-44b1-9e27-b972d76091c1.png) | | 74% |
-|                                                      |
+
+
+                                                     
